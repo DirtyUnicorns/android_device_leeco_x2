@@ -1,6 +1,7 @@
 [
- {
-   "repository": "du-x2/android_device_leeco_msm8996-common",
-   "target_path": "device/leeco/msm8996-common"
- }
+  {
+   "repository": "DirtyUnicorns/android_device_leeco_msm8996-common",
+   "target_path": "device/xiaomi/msm8996-common",
+   "branch"     : "n7x-caf"
+  }
 ]
