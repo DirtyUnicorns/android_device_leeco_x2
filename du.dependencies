@@ -1,7 +1,27 @@
 [
-  {
-   "repository": "DirtyUnicorns/android_device_leeco_msm8996-common",
-   "target_path": "device/leeco/msm8996-common",
+ {
+  "repository": "DirtyUnicorns/android_device_leeco_msm8996-common",
+  "target_path": "device/leeco/msm8996-common",
+  "branch"     : "n7x-caf"
+ },
+ {
+   "repository" : "DirtyUnicorns/android_kernel_leeco_msm8996",
+   "target_path": "kernel/leeco/msm8996",
    "branch"     : "n7x-caf"
-  }
+ },
+ {
+   "repository" : "DirtyUnicorns/android_system_qcom",
+   "target_path": "system/qcom",
+   "branch"     : "n7x-caf"
+ },
+ {
+   "repository" : "DirtyUnicorns/proprietary_vendor_leeco",
+   "target_path": "vendor/leeco",
+   "branch"     : "n7x-caf"
+ },
+ {
+   "repository": "DirtyUnicorns/android_external_stlport",
+   "target_path": "external/stlport",
+   "branch"     : "n7x-caf"
+ }
 ]
