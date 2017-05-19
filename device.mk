@@ -61,6 +61,9 @@ PRODUCT_PACKAGES += \
     netmgr_config.xml \
     qmi_config.xml \
 
+# DU Updater
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.du.updater=x2
 
 # Sensors
 PRODUCT_COPY_FILES += \
