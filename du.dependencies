@@ -15,13 +15,28 @@
    "branch"     : "n7x-caf"
  },
  {
-   "repository" : "DirtyUnicorns/proprietary_vendor_leeco",
+   "repository" : "DirtyUnicorns/android_vendor_leeco",
    "target_path": "vendor/leeco",
    "branch"     : "n7x-caf"
  },
  {
    "repository": "DirtyUnicorns/android_external_stlport",
    "target_path": "external/stlport",
+   "branch"     : "n7x-caf"
+ },
+ {
+   "repository" : "DirtyUnicorns/android_external_ant-wireless_ant_service",
+   "target_path": "external/ant-wireless/ant_service",
+   "branch"     : "n7x-caf"
+ },
+ {
+   "repository" : "DirtyUnicorns/android_external_ant-wireless_ant_native",
+   "target_path": "external/ant-wireless/ant_native",
+   "branch"     : "n7x-caf"
+ },
+ {
+   "repository" : "DirtyUnicorns/android_external_ant-wireless_antradio-library",
+   "target_path": "external/ant-wireless/antradio-library",
    "branch"     : "n7x-caf"
  }
 ]
